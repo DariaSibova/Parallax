@@ -49,3 +49,8 @@ header{
   color: #112434;
   border-radius: 20px;
 }
+
+.navigation li a:hover{
+  background: #112434;
+  color: #fff;
+}

@@ -30,5 +30,22 @@ header{
   font-weight: 700;
   font-size: 2em;
   text-decoration: none;
+}
 
+.navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.navigation li{
+  list-style: none;
+}
+
+.navigation li a{
+  text-decoration: none;
+  padding: 6px 15px;
+  color: #112434;
+  border-radius: 20px;
 }

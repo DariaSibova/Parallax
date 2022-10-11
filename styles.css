@@ -50,7 +50,8 @@ header{
   border-radius: 20px;
 }
 
-.navigation li a:hover{
+.navigation li a:hover ,
+.navigation li a.active{
   background: #112434;
   color: #fff;
 }

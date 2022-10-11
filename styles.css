@@ -24,3 +24,11 @@ header{
   align-items: center;
   z-index: 1000;
 }
+
+.logo{
+  color: #112434;
+  font-weight: 700;
+  font-size: 2em;
+  text-decoration: none;
+
+}

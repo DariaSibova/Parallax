@@ -8,7 +8,7 @@
 }
 
 body{
-  /* overflow-x: hidden */;
+  overflow-x: hidden ;
   background: #fff;
   min-height: 100vh;
 }
@@ -62,4 +62,20 @@ header{
   justify-content: center;
   align-items: center;
   height: 100vh;
+}
+
+.parallax img{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+}
+
+#text{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 4em;
+  color: #112434;
 }

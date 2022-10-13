@@ -79,3 +79,9 @@ header{
   font-size: 4em;
   color: #112434;
 }
+
+.sec{
+  position: relative;
+  padding: 100px;
+  background: #112434;
+}
